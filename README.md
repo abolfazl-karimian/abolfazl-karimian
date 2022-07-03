@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abolfazl-karimian
-- 👀 I’m interested in big data related technologies.
+- 👀 I’m a data engineer and I'm interested in data manipulation.
 - 📫 You can reach me through this email: abolfazl8karimian@gmail.com
 
 <!---
